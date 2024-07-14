@@ -1,3 +1,0 @@
-/home/kostja/Рабочий стол/Pet_projects/Todo List/cmake-build-debug/CMakeFiles/TodoList.dir
-/home/kostja/Рабочий стол/Pet_projects/Todo List/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kostja/Рабочий стол/Pet_projects/Todo List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
